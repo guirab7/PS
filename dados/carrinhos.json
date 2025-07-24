@@ -1,0 +1,88 @@
+{
+  "557999076521@s.whatsapp.net": [],
+  "556492254729@s.whatsapp.net": [],
+  "556195912829@s.whatsapp.net": [],
+  "557791405763@s.whatsapp.net": [
+    {
+      "id": "1753354865086",
+      "name": "PASSE PREMIUM",
+      "description": "PASSE PREMIUM COM DESCONTO",
+      "price": 27.99,
+      "basePrices": {
+        "ios": 49.9,
+        "google": 35.29,
+        "microsoft": 35.29
+      },
+      "images": [
+        "./media/1753354852529_1_ios_557999076521.jpeg",
+        "./media/1753354862621_2_google_557999076521.jpeg",
+        "./media/1753354865071_3_microsoft_557999076521.jpeg"
+      ],
+      "expiryTimestamp": 1755687641327
+    }
+  ],
+  "558381255350@s.whatsapp.net": [],
+  "558194503758@s.whatsapp.net": [],
+  "254919395246314@lid": [],
+  "553171128452@s.whatsapp.net": [],
+  "558179104559@s.whatsapp.net": [
+    {
+      "id": "1753354865086",
+      "name": "PASSE PREMIUM",
+      "description": "PASSE PREMIUM COM DESCONTO",
+      "price": 27.99,
+      "basePrices": {
+        "ios": 49.9,
+        "google": 35.29,
+        "microsoft": 35.29
+      },
+      "images": [
+        "./media/1753354852529_1_ios_557999076521.jpeg",
+        "./media/1753354862621_2_google_557999076521.jpeg",
+        "./media/1753354865071_3_microsoft_557999076521.jpeg"
+      ],
+      "expiryTimestamp": 1755687641327
+    }
+  ],
+  "558293098439@s.whatsapp.net": [
+    {
+      "id": "1753354865086",
+      "name": "PASSE PREMIUM",
+      "description": "PASSE PREMIUM COM DESCONTO",
+      "price": 27.99,
+      "basePrices": {
+        "ios": 49.9,
+        "google": 35.29,
+        "microsoft": 35.29
+      },
+      "images": [
+        "./media/1753354852529_1_ios_557999076521.jpeg",
+        "./media/1753354862621_2_google_557999076521.jpeg",
+        "./media/1753354865071_3_microsoft_557999076521.jpeg"
+      ],
+      "expiryTimestamp": 1755687641327
+    }
+  ],
+  "5521971433265@s.whatsapp.net": [],
+  "5511988853728@s.whatsapp.net": [],
+  "556699305030@s.whatsapp.net": [
+    {
+      "id": "1753354865086",
+      "name": "PASSE PREMIUM",
+      "description": "PASSE PREMIUM COM DESCONTO",
+      "price": 27.99,
+      "basePrices": {
+        "ios": 49.9,
+        "google": 35.29,
+        "microsoft": 35.29
+      },
+      "images": [
+        "./media/1753354852529_1_ios_557999076521.jpeg",
+        "./media/1753354862621_2_google_557999076521.jpeg",
+        "./media/1753354865071_3_microsoft_557999076521.jpeg"
+      ],
+      "expiryTimestamp": 1755687641327
+    }
+  ],
+  "555191181262@s.whatsapp.net": []
+}

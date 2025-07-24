@@ -1,0 +1,38 @@
+[
+  {
+    "clientJid": "5511988853728@s.whatsapp.net",
+    "clientName": "Guilherme",
+    "ticketText": "Não sei se conseguiram acessar",
+    "timestamp": "2025-07-24T14:29:06.503Z",
+    "notificationKeys": [
+      {
+        "remoteJid": "557999076521@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB0C614E6118E12C8289E"
+      },
+      {
+        "remoteJid": "557996016283@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB0B8FD4A320E75A2C578"
+      }
+    ]
+  },
+  {
+    "clientJid": "556699305030@s.whatsapp.net",
+    "clientName": "Alencar",
+    "ticketText": "Eu comprei ali encima mas demorei para enviar o email, acredito q tenham encerrado meu atendimento",
+    "timestamp": "2025-07-24T14:35:36.728Z",
+    "notificationKeys": [
+      {
+        "remoteJid": "557999076521@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB0EF0E949DC6C614C276"
+      },
+      {
+        "remoteJid": "557996016283@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB00D38D29B7D2770486F"
+      }
+    ]
+  }
+]

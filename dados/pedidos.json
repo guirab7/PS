@@ -1,0 +1,272 @@
+[
+  {
+    "id": 971598,
+    "clientJid": "556492254729@s.whatsapp.net",
+    "clientName": "Bruno",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "bruno90gg@gmail.com\nbruno12490gg",
+    "facebookPassword": "bruno12490gg",
+    "timestamp": "2025-07-24T11:24:00.594Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 865292,
+    "clientJid": "556195912829@s.whatsapp.net",
+    "clientName": "556195912829",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "dragoncity210205@gmail.com",
+    "facebookPassword": "@Dragoncity2102",
+    "timestamp": "2025-07-24T11:26:39.680Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 327364,
+    "clientJid": "558381255350@s.whatsapp.net",
+    "clientName": "Marcus",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "marcusvinicius.jp@hotmail.com",
+    "facebookPassword": "Lia@1702",
+    "timestamp": "2025-07-24T11:29:59.461Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 173501,
+    "clientJid": "558194503758@s.whatsapp.net",
+    "clientName": "Maike",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "maikesouza417@gmail.com",
+    "facebookPassword": "08198856690",
+    "timestamp": "2025-07-24T12:04:54.430Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 879663,
+    "clientJid": "254919395246314@lid",
+    "clientName": "Opa",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "35988050167",
+    "facebookPassword": "pietro123",
+    "timestamp": "2025-07-24T12:28:11.738Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 730451,
+    "clientJid": "553171128452@s.whatsapp.net",
+    "clientName": "Idálio Prates dos santos",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "idalioking@gmail.com",
+    "facebookPassword": "Cê.151502",
+    "timestamp": "2025-07-24T12:32:11.200Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 142524,
+    "clientJid": "5521971433265@s.whatsapp.net",
+    "clientName": "Jailton",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "Jailtonpaulino595@gmail.com \nSenha:Shinigami@00",
+    "facebookPassword": "Senha:Shinigami@00",
+    "timestamp": "2025-07-24T12:47:19.533Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 800272,
+    "clientJid": "5511988853728@s.whatsapp.net",
+    "clientName": "Guilherme",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "100004947362476",
+    "facebookPassword": "",
+    "timestamp": "2025-07-24T13:44:28.399Z",
+    "status": "pendente",
+    "atendido_por": null
+  },
+  {
+    "id": 592699,
+    "clientJid": "555191181262@s.whatsapp.net",
+    "clientName": "Tales Machado Silva",
+    "total": 27.99,
+    "items": [
+      {
+        "id": "1753354865086",
+        "name": "PASSE PREMIUM",
+        "description": "PASSE PREMIUM COM DESCONTO",
+        "price": 27.99,
+        "basePrices": {
+          "ios": 49.9,
+          "google": 35.29,
+          "microsoft": 35.29
+        },
+        "images": [
+          "./media/1753354852529_1_ios_557999076521.jpeg",
+          "./media/1753354862621_2_google_557999076521.jpeg",
+          "./media/1753354865071_3_microsoft_557999076521.jpeg"
+        ],
+        "expiryTimestamp": 1755687641327
+      }
+    ],
+    "facebookLogin": "",
+    "facebookPassword": "SE_MIL_DA@gmail.com",
+    "timestamp": "2025-07-24T14:31:21.905Z",
+    "status": "pendente",
+    "atendido_por": null
+  }
+]
